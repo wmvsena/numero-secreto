@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 0ce73429917da31ae0850f96a204245f44cb03d4
 let listaDeNumerosSorteados = [];
 let numeroLimite = 10;
 let numeroSecreto = gerarNumeroAleatorio();
@@ -69,5 +72,8 @@ function reiniciarJogo() {
 
 
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 0ce73429917da31ae0850f96a204245f44cb03d4
