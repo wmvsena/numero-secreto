@@ -67,7 +67,4 @@ function reiniciarJogo() {
 
 
 
-\\ teste
-
-
 
